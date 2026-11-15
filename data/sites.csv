@@ -1,0 +1,5 @@
+site,lat,lon,sunlit_pct,earth_visible_pct,slope_deg,source
+Leibnitz Beta Plateau (Site 20),-85.4,32.7,50,50,4.8,"slope+coords: LOLA DEM profile (Moon Trek); sunlit/earth: placeholder"
+Site 78.5S,-78.5,-82.1,50,50,1.4,"slope+coords: LOLA 75deg DEM profile (Moon Trek); sunlit/earth: placeholder"
+Site 71.1S,-71.1,-82.6,50,50,7.9,"slope+coords: LOLA 45deg DEM profile (Moon Trek); sunlit/earth: placeholder"
+Site 72.9S,-72.9,-85.9,50,50,6.2,"slope+coords: LOLA 45deg DEM profile (Moon Trek); sunlit/earth: placeholder"
